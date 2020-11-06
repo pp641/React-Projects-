@@ -1,0 +1,31 @@
+.question
+{
+    color: white;
+    height: 250px;
+    background-color: brown;
+    font-size: 30px;
+    width: 400px;
+    border-radius: 5px;
+    text-align: center;
+    font-family: georgia;
+    margin-left: 550px;
+}
+.answer
+{
+    color: red;
+    font-size: 30px;
+    width: 400px;
+    border-radius: 5px;
+    text-align: center;
+    display: block;
+    margin-left: 550px;
+    font-family: georgia;
+
+}
+.result
+{
+    text-align: center;
+    color: royalblue;
+    font-size: 100px;
+    font-family: Georgia;
+}

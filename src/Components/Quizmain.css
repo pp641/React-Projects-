@@ -1,0 +1,30 @@
+#quiztitle
+{
+    color: royalblue;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size : 100px;
+    background: -webkit-linear-gradient(red,blue);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent
+    
+}
+.btn1
+{
+    margin-left: 50px;
+    height : 100px;
+    width : 150px;
+    margin-top: 170px;
+    margin-bottom: 100px;
+
+}
+.btn2
+{
+    margin-left : 350px;
+}
+.btn3
+{
+
+    height : 100px;
+    width : 150px;
+}
